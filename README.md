@@ -2,7 +2,7 @@
 
 Welcome to my **PowerShell Mastery** repository! This collection showcases my journey through comprehensive PowerShell training, from fundamental commands to advanced scripting and automation techniques. Each project here highlights essential skills in automation, scripting, and object-oriented programming, with the ultimate goal of achieving PowerShell mastery certification.
 
-![PowerShell Mastery Banner](https://aka.ms/powershellheroposter)
+![PowerShell Mastery Banner](https://github.com/ClaytonSeager/PowerShell-Mastery/blob/main/Powerhell%20Hero.png)
 
 ---
 
